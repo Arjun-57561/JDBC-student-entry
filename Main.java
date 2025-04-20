@@ -20,7 +20,7 @@ public class Main {
                         String prn = sc.nextLine();
                         System.out.print("Enter Name: ");
                         String name = sc.nextLine();
-                        System.out.print("Enter DoB: [Format:YYYY-MM-DD]");
+                        System.out.print("Enter DoB [Format:YYYY-MM-DD]: ");
                         String dob = sc.nextLine();
                         System.out.print("Enter Marks: ");
                         double marks = sc.nextDouble();
